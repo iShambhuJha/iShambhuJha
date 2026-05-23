@@ -21,7 +21,7 @@
 - 🏥 **7+ years** building production-critical enterprise applications, predominantly in **Healthcare IT**
 - ⚡ Specialise in **Angular** frontends with full-stack capabilities across **Node.js** backends and **AWS**
 - 🚀 Built **Ignition** — a self-initiated Node.js platform that achieved a **9× performance improvement**, adopted org-wide
-- 🌍 Based in **Hyderabad, India** · Open to **remote opportunities**
+- 📍 Based in **Hyderabad, India** · Open to **new opportunities & collaborations**
 - 🤝 Enjoy mentoring engineers, driving code quality, and contributing across the full stack
 
 ---
@@ -87,18 +87,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iShambhuJha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iShambhuJha&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
-I'm currently **open to remote Senior Software Engineer roles** — feel free to reach out!
+I'm currently **open to new opportunities, collaborations, and interesting engineering challenges** — feel free to reach out!
 
 <p align="center">
   <a href="https://shambhu-jha.netlify.app">🌐 Portfolio</a> ·
