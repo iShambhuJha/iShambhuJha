@@ -2,7 +2,7 @@
 
 <p align="center">
   I build things for the web — Angular frontends, Node.js backends, and everything in between.<br/>
-  7+ years in enterprise Healthcare IT. I care about clean code, performance, and shipping things that actually work.
+  7+ years crafting enterprise applications in Healthcare IT. I care about clean code, performance, and shipping things that actually work.
 </p>
 
 <p align="center">
@@ -35,19 +35,20 @@
 
 ---
 
-### 🔨 What I'm working on
+### 🔨 What I'm up to
 
-- Shipping features at **Stolt Nielsen** on their internal logistics platform
+- Building and shipping features on a large-scale enterprise product
 - Improving my open source Angular component — [reuseableMatTable](https://github.com/iShambhuJha/reuseableMatTable)
 - Exploring system design patterns and distributed systems concepts
 
 ---
 
-### 💬 A bit more about me
+### 💬 A bit about me
 
-- Most of my work lives in private repos — enterprise healthcare products at SIS and Quest Diagnostics
+- Most of my work lives in private repos — enterprise products in Healthcare IT
 - I once cut a process from **2.5 hours to 15 minutes** by building an internal tool from scratch — that's the kind of problem I enjoy solving
 - I write clean, testable code and genuinely enjoy code reviews
+- Fan of Angular's opinionated structure, RxJS reactive patterns, and anything that makes UIs feel fast
 - Currently open to interesting opportunities and collaborations
 
 ---
