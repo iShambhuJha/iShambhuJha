@@ -37,9 +37,8 @@
 
 ### 🔨 What I'm up to
 
-- Building and shipping features on a large-scale enterprise product
-- Improving my open source Angular component — [reuseableMatTable](https://github.com/iShambhuJha/reuseableMatTable)
-- Exploring system design patterns and distributed systems concepts
+- Brushing up on **System Design** and **DSA** — the fundamentals never get old
+- Exploring how **AI tools** are changing the way we write and think about code
 
 ---
 
