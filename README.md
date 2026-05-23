@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I'm Shambhu Nath Jha 👋</h1>
+<h1 align="center">Hey, I'm Shambhu 👋</h1>
 
-<h3 align="center">Senior Full-Stack Engineer · Angular · Node.js · Healthcare IT</h3>
+<p align="center">
+  I build things for the web — Angular frontends, Node.js backends, and everything in between.<br/>
+  7+ years in enterprise Healthcare IT. I care about clean code, performance, and shipping things that actually work.
+</p>
 
 <p align="center">
   <a href="https://shambhu-jha.netlify.app" target="_blank">
@@ -16,83 +19,40 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🏥 **7+ years** building production-critical enterprise applications, predominantly in **Healthcare IT**
-- ⚡ Specialise in **Angular** frontends with full-stack capabilities across **Node.js** backends and **AWS**
-- 🚀 Built **Ignition** — a self-initiated Node.js platform that achieved a **9× performance improvement**, adopted org-wide
-- 📍 Based in **Hyderabad, India** · Open to **new opportunities & collaborations**
-- 🤝 Enjoy mentoring engineers, driving code quality, and contributing across the full stack
-
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
+### 🧰 What I work with
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white)
-
-**Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Testing**
-
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-
-**AI Tools**
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### 🏆 Highlights
+### 🔨 What I'm working on
 
-| | |
-|---|---|
-| ⚡ **9× faster** | Reduced healthcare data seeding from 2.5 hrs to 15 mins |
-| 🏥 **5+ years** | Enterprise Healthcare IT across ambulatory surgery & diagnostics |
-| 👥 **Team coordination** | Technical direction for a 4-member engineering team |
-| ✅ **100% roadmap** | Delivered full feature roadmap on schedule across multiple sprints |
-| 🔒 **Distributed systems** | Redis distributed locks, cron scheduling, multi-pod environments |
+- Shipping features at **Stolt Nielsen** on their internal logistics platform
+- Improving my open source Angular component — [reuseableMatTable](https://github.com/iShambhuJha/reuseableMatTable)
+- Exploring system design patterns and distributed systems concepts
 
 ---
 
-### 📌 Featured Projects
+### 💬 A bit more about me
 
-#### 🔧 [Reusable Angular Material Table](https://github.com/iShambhuJha/reuseableMatTable)
-> A configuration-driven, reusable Angular data table component built on Angular Material — reduces repetitive table implementation across enterprise applications.
-
-`Angular` `TypeScript` `Angular Material` `RxJS`
+- Most of my work lives in private repos — enterprise healthcare products at SIS and Quest Diagnostics
+- I once cut a process from **2.5 hours to 15 minutes** by building an internal tool from scratch — that's the kind of problem I enjoy solving
+- I write clean, testable code and genuinely enjoy code reviews
+- Currently open to interesting opportunities and collaborations
 
 ---
 
-### 📫 Let's Connect
+### 📫 Say hi
 
-I'm currently **open to new opportunities, collaborations, and interesting engineering challenges** — feel free to reach out!
-
-<p align="center">
-  <a href="https://shambhu-jha.netlify.app">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/shambhu-jha014">💼 LinkedIn</a> ·
-  <a href="mailto:shambhu.jha014@gmail.com">📧 Email</a>
-</p>
+Got something interesting to build or just want to connect?<br/>
+Reach me at **shambhu.jha014@gmail.com** or find me on [LinkedIn](https://www.linkedin.com/in/shambhu-jha014)
