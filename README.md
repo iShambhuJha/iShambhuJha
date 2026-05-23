@@ -6,6 +6,14 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iShambhuJha&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iShambhuJha&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://shambhu-jha.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
