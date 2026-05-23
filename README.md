@@ -5,13 +5,7 @@
   7+ years crafting enterprise applications in Healthcare IT. I care about clean code, performance, and shipping things that actually work.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iShambhuJha&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iShambhuJha&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 <p align="center">
   <a href="https://shambhu-jha.netlify.app" target="_blank">
