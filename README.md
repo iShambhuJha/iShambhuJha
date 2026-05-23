@@ -5,7 +5,13 @@
   7+ years crafting enterprise applications in Healthcare IT. I care about clean code, performance, and shipping things that actually work.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iShambhuJha&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iShambhuJha&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center">
   <a href="https://shambhu-jha.netlify.app" target="_blank">
@@ -16,6 +22,9 @@
   </a>
   <a href="mailto:shambhu.jha014@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/iShambhuJha" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
